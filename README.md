@@ -1,3 +1,3 @@
-# Learn Github
+# learning github
 
-This is a throwaway repo used to learn about working with Git and Github.
+why is this being a damn pain in the ass!
